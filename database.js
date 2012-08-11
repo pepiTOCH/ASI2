@@ -1,3 +1,4 @@
+	//Soy Josue Lopez y realizo este commit para que se me autorice cambio
 
 	var db = null;
 	var namedatabase = "db.0.0.4.5";
